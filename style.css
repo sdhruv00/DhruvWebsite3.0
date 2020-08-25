@@ -363,7 +363,7 @@ h3{
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: 800;
-    font-size: 1.5em;
+    font-size: 1.32em;
     opacity: 0;
     transform: translate(-100%,0);
     transition: all .3s ease-in-out;
